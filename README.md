@@ -34,7 +34,7 @@ To secure a growth-oriented and challenging position in a forward-thinking organ
 
 - **Languages:** Java (Core & Advanced), Python, C++, JavaScript, PHP  
 - **Frameworks/Libraries:** Spring Boot, React.js, Angular, Tailwind CSS, Bootstrap  
-- **Databases/Tools:** MySQL, MongoDB, AWS (Basic), Git, Netlify  
+- **Databases/Tools:** MySQL,AWS (Basic), Github
 - **Web Technologies:** HTML, CSS  
 - **Other Skills:** Data Structures & Algorithms, JWT, Role-Based Authentication, Razorpay Integration, GitHub, GitLab
 
