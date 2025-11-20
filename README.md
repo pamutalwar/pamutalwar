@@ -2,7 +2,7 @@
 
 **Full Stack Java Developer | Pune, Maharashtra, India**  
 📧 [pramodtalwar.in@gmail.com](mailto:pramodtalwar.in@gmail.com) &nbsp; | &nbsp;  
-[LinkedIn](https://linkedin.com/in/parmeshwartalwar) &nbsp; | &nbsp; [GitHub](https://github.com/pramod-talwar)  
+[LinkedIn](https://linkedin.com/in/parmeshwartalwar) &nbsp; | &nbsp; [GitHub](https://github.com/pramod-talwar) | &nbsp; [Portfolio]([https://github.com/pramod-talwar](https://parmeshwartalwar.netlify.app/))  
 📞 +91 7249594024
 
 ---
@@ -22,9 +22,11 @@ To secure a growth-oriented and challenging position in a forward-thinking organ
 ## 🎓 Education
 
 - **Bachelor of Computer Applications (B.C.A.)**  
-  Punyashlok Ahilyadevi Holkar University, Solapur (2021–2024)  
+  Sangameshwar College Solapur, Solapur (2021–2024)  
   _CGPA: 8.73_
-
+  
+- **Masters of Computer Applications (M.C.A)**  
+  Punyashlok Ahilyadevi Holkar University, Solapur (2024–2026)  
 ---
 
 ## 🛠️ Technical Skills
@@ -34,14 +36,6 @@ To secure a growth-oriented and challenging position in a forward-thinking organ
 - **Databases/Tools:** MySQL, MongoDB, AWS (Basic), Git, Netlify  
 - **Web Technologies:** HTML, CSS  
 - **Other Skills:** Data Structures & Algorithms, JWT, Role-Based Authentication, Razorpay Integration, GitHub, GitLab
-
----
-
-## 📜 Certifications
-
-- Full Stack Java Developer – ExcelR
-- SQL & JavaScript – Oneroadmap
-- Machine Learning – Internshala
 
 ---
 
