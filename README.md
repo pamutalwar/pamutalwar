@@ -2,7 +2,7 @@
 
 **Full Stack Java Developer | Pune, Maharashtra, India**  
 📧 [pramodtalwar.in@gmail.com](mailto:pramodtalwar.in@gmail.com) &nbsp; | &nbsp;  
-[LinkedIn](https://linkedin.com/in/parmeshwartalwar) &nbsp; | &nbsp; [GitHub](https://github.com/pramod-talwar) | &nbsp; [Portfolio]([https://github.com/pramod-talwar](https://parmeshwartalwar.netlify.app/))  
+[LinkedIn](https://linkedin.com/in/parmeshwartalwar) &nbsp; | &nbsp; [GitHub](https://github.com/pramod-talwar) | &nbsp; [Portfolio](https://github.com/pramod-talwar](https://parmeshwartalwar.netlify.app))  
 📞 +91 7249594024
 
 ---
