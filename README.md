@@ -1,48 +1,50 @@
 # Parmeshwar Talawar
 
-**Full Stack Java Developer | Pune, Maharashtra, India**  
-📧 [pramodtalwar.in@gmail.com](mailto:pramodtalwar.in@gmail.com) &nbsp; | &nbsp;  
-[LinkedIn](https://linkedin.com/in/parmeshwartalwar) &nbsp; | &nbsp; [GitHub](https://github.com/pramod-talwar) | &nbsp; [Portfolio](https://parmeshwartalwar.netlify.app)  
+**Full Stack Java Developer**  
+Pune, Maharashtra, India  
+📧 [pramodtalwar.in@gmail.com](mailto:pramodtalwar.in@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/parmeshwartalwar) &nbsp;|&nbsp; [GitHub](https://github.com/pramod-talwar) &nbsp;|&nbsp; [Portfolio](https://parmeshwartalwar.netlify.app)  
 📞 +91 7249594024
 
 ---
 
 ## 👋 About Me
 
-Hello! I'm Parmeshwar, a results-driven Full Stack Java Developer passionate about building efficient, scalable, and user-centric web solutions. I thrive in dynamic environments, actively seek new challenges, and believe in continuous learning. My interests lie at the intersection of backend engineering, modern UI development, and cloud technologies.
+Innovative and detail-oriented Full Stack Java Developer with expertise in building robust, scalable, and user-friendly web applications. Passionate about bridging backend functionality with modern user interfaces and cloud technologies. Eager to take on complex challenges and contribute to impactful solutions while continuously learning and evolving in the field.
 
 ---
 
 ## 🎯 Career Objective
 
-To secure a growth-oriented and challenging position in a forward-thinking organization, where I can leverage my technical expertise and creativity to deliver impactful solutions while advancing my professional skills.
+To obtain a growth-oriented position in a forward-thinking organization where I can apply my technical skills and creative problem-solving abilities to deliver high-quality solutions and further develop my professional expertise.
 
 ---
 
 ## 🎓 Education
 
-
-- **Masters of Computer Applications (M.C.A)**  
-  Punyashlok Ahilyadevi Holkar University, Solapur (2024–2026)  
+- **Master of Computer Applications (M.C.A.)**  
+  Punyashlok Ahilyadevi Holkar University, Solapur  
+  _2024–2026_  
 
 - **Bachelor of Computer Applications (B.C.A.)**  
-  Sangameshwar College Solapur, Solapur (2021–2024)  
+  Sangameshwar College, Solapur  
+  _2021–2024_  
   _CGPA: 8.73_
-  ---
+
+---
 
 ## 🛠️ Technical Skills
 
 - **Languages:** Java (Core & Advanced), Python, C++, JavaScript, PHP  
-- **Frameworks/Libraries:** Spring Boot, React.js, Angular, Tailwind CSS, Bootstrap  
-- **Databases/Tools:** MySQL,AWS (Basic), Github
+- **Frameworks & Libraries:** Spring Boot, React.js, Angular, Tailwind CSS, Bootstrap  
+- **Databases & Tools:** MySQL, AWS (Basic), GitHub  
 - **Web Technologies:** HTML, CSS  
-- **Other Skills:** Data Structures & Algorithms, JWT, Role-Based Authentication, Razorpay Integration, GitHub, GitLab
+- **Additional Skills:** Data Structures & Algorithms, JWT, Role-Based Authentication, Razorpay Integration, GitHub, GitLab
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm always excited to discuss tech, collaborate on projects, or explore new career opportunities.  
-Feel free to reach out via [email](mailto:pramodtalwar.in@gmail.com) or connect on [LinkedIn](https://linkedin.com/in/parmeshwartalwar).
+I’m enthusiastic about connecting with like-minded professionals, collaborating on exciting projects, and exploring new career opportunities.  
+Reach out via [email](mailto:pramodtalwar.in@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/parmeshwartalwar).
 
 ---
