@@ -2,20 +2,29 @@
 
 **Full Stack Java Developer**  
 Pune, Maharashtra, India  
-📧 [pramodtalwar.in@gmail.com](mailto:pramodtalwar.in@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/parmeshwartalwar) &nbsp;|&nbsp; [GitHub](https://github.com/pramod-talwar) &nbsp;|&nbsp; [Portfolio](https://parmeshwartalwar.netlify.app)  
-📞 +91 7249594024
+📧 [pramodtalwar.in@gmail.com](mailto:pramodtalwar.in@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/parmeshwartalwar) &nbsp;|&nbsp; [GitHub](https://github.com/pramod-talwar) &nbsp;|&nbsp; 📞 +91 7249594024
 
 ---
 
 ## 👋 About Me
 
-Innovative and detail-oriented Full Stack Java Developer with expertise in building robust, scalable, and user-friendly web applications. Passionate about bridging backend functionality with modern user interfaces and cloud technologies. Eager to take on complex challenges and contribute to impactful solutions while continuously learning and evolving in the field.
+Innovative and detail-oriented Full Stack Java Developer with expertise in building robust, scalable, and user-friendly web applications. Passionate about bridging backend functionality with modern user experiences.
 
 ---
 
 ## 🎯 Career Objective
 
-To obtain a growth-oriented position in a forward-thinking organization where I can apply my technical skills and creative problem-solving abilities to deliver high-quality solutions and further develop my professional expertise.
+To obtain a growth-oriented position in a forward-thinking organization where I can apply my technical skills and creative problem-solving abilities to deliver high-quality solutions and further develop my expertise.
+
+---
+
+## 🧑‍💻 Experience
+
+- **AI Variant — Full Stack Java Developer Intern**  
+  Dec 2024 – Jun 2025  
+  • Worked on full‑stack applications using Spring Boot, React, MySQL, and AWS.  
+  • Built secure login modules and REST APIs using JWT & role‑based authentication.  
+  • Collaborated with a 6‑member team to deliver scalable modules.
 
 ---
 
