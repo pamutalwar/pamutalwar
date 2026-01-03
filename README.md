@@ -2,7 +2,7 @@
 
 **Full Stack Java Developer**  
 Pune, Maharashtra, India  
-📧 [pramodtalwar.in@gmail.com](mailto:pramodtalwar.in@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/parmeshwartalwar) &nbsp;|&nbsp; [GitHub](https://github.com/pramod-talwar) &nbsp;|&nbsp;
+📧 [pramodtalwar.in@gmail.com](mailto:parmeshwartalwar03@gmail.com) &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/parmeshwartalwar) &nbsp;|&nbsp; [GitHub](https://github.com/pramod-talwar) &nbsp;|&nbsp;
 
 ---
 
